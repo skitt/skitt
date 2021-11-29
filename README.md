@@ -1,5 +1,4 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=skitt&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=skitt&langs_count=5)]()
 
 <!--
 **skitt/skitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
